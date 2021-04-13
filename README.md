@@ -1,4 +1,4 @@
-### Smart Home Project
+# Smart Home Project
 
 ## About the Project
 
@@ -9,4 +9,4 @@
 ## What is in here?
 
 
-# Honor Code @VT
+### Honor Code @VT
