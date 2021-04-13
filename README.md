@@ -36,11 +36,13 @@ temperature will constantly be updated on the LCD and MIT App.
 Bluetooth, and Arduino Uno.
 ## How does the MIT phone app work?
 (1) Here is the splash screen of the MIT phone app:
+
 ![alt text](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/imgs/mit_app_splash_screen.PNG)
 
 When the user clicks on the app icon, the “Zoom University” screen pops up. When the user clicks on the screen, the main menu shows up on the screen. 
 
 (2) Here is the user interface of the MIT phone app:
+
 ![alt text](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/imgs/mit_app_user_interface.PNG)
 
 Once the app is connected to the chosen bluetooth device, the user will be directed back to the main menu and the label under bluetooth symbol is changed to “Connected”. 
