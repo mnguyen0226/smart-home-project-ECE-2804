@@ -19,7 +19,7 @@ will be processed by the amplifier which then delivers the message to the speake
 - The Weather Station + AC Unit contains a temperature sensor and an LED which represents the AC Unit. The weather station will take
 real-time temperature, and if the temperature in F goes above 67F, then the LED (AC Unit) is on. The
 temperature will constantly be updated on the LCD and MIT App. 
-The Intruder Detection System contains a motion sensor and a buzzer. If a motion is detected, then the buzzer will make buzzing noise, the LCD asks the user to call 911, and the MIT App will alert the owner of the theft’s moving and stopping time.
+- The Intruder Detection System contains a motion sensor and a buzzer. If a motion is detected, then the buzzer will make buzzing noise, the LCD asks the user to call 911, and the MIT App will alert the owner of the theft’s moving and stopping time.
 - The Indoor Lights contains a Bluetooth and an LED (indoor light). The LED on/off state will be controlled via MIT app,
 Bluetooth, and Arduino Uno.
 ## How does the MIT phone app work?
