@@ -8,6 +8,7 @@ This project simulates the autonomate and control home system with the goals to 
 ## How does the advanced smart home work?
 Here is the high level structure of the advanced version:
 ![alt text](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/imgs/advanced_smart_home_structure.PNG)
+![alt text](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/imgs/arduino_circuit_advanced_sm.PNG)
 
 There are 8 household appliances:
 - **The Weather Station** has a Temperature Sensor and 16x4 LCD Screen. It takes the input data from the Temperature Sensor and will send data back out to the LCD Screen and the MIT App Interface.
@@ -21,6 +22,7 @@ There are 8 household appliances:
 ## How does the simplified smart home work?
 Here is the high level structure of the simplified version:
 ![alt text](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/imgs/simplified_smart_home_structure.PNG)
+![alt text](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/imgs/arduino_circuit_simplified_sm.PNG)
 
 There are 5 household appliances:
 - **The Automated Night Light System** contains a photoresistor and a LED. If there is no light, the LED will turn on.
