@@ -35,12 +35,18 @@ temperature will constantly be updated on the LCD and MIT App.
 - **The Indoor Lights System** contains a Bluetooth and an LED (indoor light). The LED on/off state will be controlled via MIT app,
 Bluetooth, and Arduino Uno.
 ## How does the MIT phone app work?
-- (1) Here is the splash screen of the MIT phone app:
+(1) Here is the splash screen of the MIT phone app:
 ![alt text](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/imgs/mit_app_splash_screen.PNG)
 
+When the user clicks on the app icon, the “Zoom University” screen pops up. When the user clicks on the screen, the main menu shows up on the screen. 
 
-- (2) Here is the user interface of the MIT phone app:
+(2) Here is the user interface of the MIT phone app:
 ![alt text](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/imgs/mit_app_user_interface.PNG)
+
+Once the app is connected to the chosen bluetooth device, the user will be directed back to the main menu and the label under bluetooth symbol is changed to “Connected”. 
+- The real time temperature is then reported by the weather station. As the user gets the feedback from the weather station, the user is given the choice to turn on or turn off the AC Master Unit. 
+- The “turn on” option is the green switch to the left of the AC symbol and the “turn off” option is the red switch to the right of the AC symbol. 
+- The other feature in the app is the intruder’s alert. When nothing is detected, only the blue bar is presented under the image; When the system detects the intruder, the time intruder being detected will be printed on the blue bar. The time system finds that the intruder left will also be printed on the blue bar to replace the previous information.
 ## How to run
 - MIT
 - Hardware like report
