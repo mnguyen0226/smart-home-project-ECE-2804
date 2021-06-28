@@ -51,15 +51,15 @@ Once the app is connected to the chosen bluetooth device, the user will be direc
 - The other feature in the app is the intruder’s alert. When nothing is detected, only the blue bar is presented under the image; When the system detects the intruder, the time intruder being detected will be printed on the blue bar. The time system finds that the intruder left will also be printed on the blue bar to replace the previous information.
 ## How to run this project:
 - Step 1: Have the hardward circuit implements similar to either the advanced or simplified smart home in the reports below.
-- Step 2: Have an Android Phone and import the MIT App Inventor in *src/mit_app_inventor* by following this instruction: http://appinventor.mit.edu/explore/support/sharing-code.
-- Step 3: Install Arduino IDE on your local machine: https://www.arduino.cc/en/software.
+- Step 2: Have an Android Phone and import the MIT App Inventor in *src/mit_app_inventor* by following this [instruction](http://appinventor.mit.edu/explore/support/sharing-code).
+- Step 3: Install [Arduino IDE](https://www.arduino.cc/en/software) on your local machine.
 - Step 4: Download either the *.ino* file in *src/* then import it to your Arduino Uno or Arduino Mega.
 ## Demo and Test:
-The Final Presentation and Test Demo can be found in: https://drive.google.com/file/d/10hSpWn1uEGW5zuKIa79ynKUaghiU0qmn/view?usp=sharing
+The Final Presentation and Test Demo can be found in [here](https://drive.google.com/file/d/10hSpWn1uEGW5zuKIa79ynKUaghiU0qmn/view?usp=sharing)
 
 ## Reports (password will be given to related individuals only):
-- (1) Simplified Smart Home Final Report (locked): https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/reports/Simplified%20Smart%20Home%20Final%20Technical%20Report-locked.pdf
-- (2) Advanced Smart Home Final Report (locked): https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/reports/Advanced%20Smart%20Home%20Final%20Technical%20Report-locked.pdf
-## Honor Code @VT
+- (1) Simplified Smart Home Final [Report](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/reports/Simplified%20Smart%20Home%20Final%20Technical%20Report-locked.pdf) (locked). 
+- (2) Advanced Smart Home Final [Report](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/reports/Advanced%20Smart%20Home%20Final%20Technical%20Report-locked.pdf) (locked).
+## Honor Code @VT:
 You know what VT's Honor Code is, Hokies :). Don't do it. You have been warned.
 
