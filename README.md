@@ -1,6 +1,6 @@
 # Smart Home Project - ECE 2804
 
-## About the Project
+## About
 This project simulates the autonomate and control home system with the goals to gain the ability to control remotely your connected home from your phone and computer. There are two versions:
 - The simplified smart home.
 - The advanced smart home.
@@ -57,9 +57,9 @@ Once the app is connected to the chosen bluetooth device, the user will be direc
 ## Demo and Test:
 The Final Presentation and Test Demo can be found in [here](https://drive.google.com/file/d/10hSpWn1uEGW5zuKIa79ynKUaghiU0qmn/view?usp=sharing)
 
-## Reports (password will be given to related individuals only):
-- (1) Simplified Smart Home Final [Report](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/reports/Simplified%20Smart%20Home%20Final%20Technical%20Report-locked.pdf) (locked). 
-- (2) Advanced Smart Home Final [Report](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/reports/Advanced%20Smart%20Home%20Final%20Technical%20Report-locked.pdf) (locked).
+## Reports:
+- [Simplified Smart Home Final Paper](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/reports/Simplified%20Smart%20Home%20Final%20Technical%20Report.pdf). 
+- [Advanced Smart Home Final Paper](https://github.com/mnguyen0226/smart-home-project-ECE-2804/blob/main/reports/Advanced%20Smart%20Home%20Final%20Technical%20Report.pdf).
 ## Honor Code @VT:
 You know what VT's Honor Code is, Hokies :). Don't do it. You have been warned.
 
