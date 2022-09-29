@@ -1,4 +1,4 @@
-# Smart Home Project - ECE 2804
+# Smart Home Simulation
 
 ## About
 This project simulates the autonomate and control home system with the goals to gain the ability to control remotely your connected home from your phone and computer. There are two versions:
